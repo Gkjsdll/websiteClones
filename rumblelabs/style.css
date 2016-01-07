@@ -312,11 +312,11 @@ body,html{
 #projPlan:active{
   background-color: #B96BD3
 }
-#contact:active{
+#contact:active, #culture a:active, #process a:active{
   color: #B96BD3;
 }
 
-#contact:hover{
+#contact:hover, #culture a:hover, #process a:hover{
   color: #a861ce;
 }
 
